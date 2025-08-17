@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Outfit", serif;
-   /* flex-flow: row wrap; */
+    flex-flow: row wrap; 
 }
 body{
     color: #333;
